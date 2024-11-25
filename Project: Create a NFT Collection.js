@@ -1,4 +1,4 @@
-
+// Step 1: Create a variable to hold your NFTs
 let nfts = []; // Array to store NFT objects
 
 // Step 2: Function to mint NFTs
